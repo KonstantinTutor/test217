@@ -9,4 +9,6 @@
 
 print('Hello World!')
 
-print('I am in main')
+if input('Имя: ') == 'Егор':
+    print('Привет, Егор!')
+
