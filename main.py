@@ -7,3 +7,4 @@
 #     f.seek(0)
 #     print(f.read())
 
+print('Hello World!')
